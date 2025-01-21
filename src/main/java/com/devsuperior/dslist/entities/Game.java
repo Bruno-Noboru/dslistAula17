@@ -56,12 +56,12 @@ public class Game {
 		this.id = id;
 	}
 
-	public String getTittle() {
+	public String getTitle() {
 		return title;
 	}
 
-	public void setTittle(String tittle) {
-		this.title = tittle;
+	public void setTittle(String title) {
+		this.title = title;
 	}
 
 	public Integer getYear() {
